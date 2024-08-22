@@ -1,0 +1,303 @@
+{
+  "heading": "Questions and Answers",
+  "topics": [
+    {
+      "heading": "Conjunctions",
+      "questions": [
+        {
+          "questionNo": 1,
+          "question": "Which conjunction is used to show addition in a sentence?",
+          "options": [
+            "But",
+            "Or",
+            "And",
+            "Yet"
+          ],
+          "answer": 2,
+          "explanation": "\"And\" is a coordinating conjunction used to add information or connect similar ideas."
+        },
+        {
+          "questionNo": 2,
+          "question": "Fill in the blank with the correct subordinating conjunction: _____ we arrive early, we'll get good seats.",
+          "options": [
+            "If",
+            "And",
+            "But",
+            "Or"
+          ],
+          "answer": 0,
+          "explanation": "\"If\" introduces a conditional clause, showing what might happen under certain circumstances."
+        },
+        {
+          "questionNo": 3,
+          "question": "Which of these is a correlative conjunction pair?",
+          "options": [
+            "Because/since",
+            "Not only/but also",
+            "When/while",
+            "None of the above"
+          ],
+          "answer": 1,
+          "explanation": "\"Not only...but also\" is a pair of correlative conjunctions used to emphasize two related ideas."
+        },
+        {
+          "questionNo": 4,
+          "question": "What type of conjunction is \"unless\"?",
+          "options": [
+            "Coordinating",
+            "Subordinating",
+            "Correlative"
+          ],
+          "answer": 1,
+          "explanation": "\"Unless\" is a subordinating conjunction that introduces a condition."
+        },
+        {
+          "questionNo": 5,
+          "question": "Fill in the blank with the correct coordinating conjunction: I wanted to go swimming, _____ the pool was closed.",
+          "options": [
+            "and",
+            "but",
+            "or",
+            "so"
+          ],
+          "answer": 1,
+          "explanation": "\"But\" is used to show the contrast between two independent clauses."
+        },
+        {
+          "questionNo": 6,
+          "question": "Which conjunction pair is used to present two negative options?",
+          "options": [
+            "Either/or",
+            "Both/and",
+            "Whether/or",
+            "Neither/nor"
+          ],
+          "answer": 3,
+          "explanation": "\"Neither...nor\" is used to negate or exclude both options presented."
+        },
+        {
+          "questionNo": 7,
+          "question": "What type of conjunction is used in this sentence: \"As soon as the bell rings, we can leave.\"?",
+          "options": [
+            "Coordinating",
+            "Subordinating",
+            "Correlative",
+            "None of the above"
+          ],
+          "answer": 1,
+          "explanation": "\"As soon as\" is a subordinating conjunction introducing a time relationship."
+        },
+        {
+          "questionNo": 8,
+          "question": "Which of these is not a coordinating conjunction?",
+          "options": [
+            "For",
+            "Nor",
+            "Yet",
+            "Because"
+          ],
+          "answer": 3,
+          "explanation": "\"Because\" is a subordinating conjunction. The others are part of the FANBOYS coordinating conjunctions."
+        },
+        {
+          "questionNo": 9,
+          "question": "What type of conjunction is \"yet\"?",
+          "options": [
+            "Coordinating",
+            "Subordinating",
+            "Correlative"
+          ],
+          "answer": 0,
+          "explanation": "\"Yet\" is one of the FANBOYS coordinating conjunctions, used to show contrast."
+        },
+        {
+          "questionNo": 10,
+          "question": "Which of these conjunction pairs is used to present alternatives?",
+          "options": [
+            "Both/and",
+            "Whether/or",
+            "Neither/nor",
+            "Not only/but also"
+          ],
+          "answer": 1,
+          "explanation": "\"Whether...or\" is used to present alternatives or choices."
+        },
+        {
+          "questionNo": 11,
+          "question": "What type of conjunction is used in this sentence: \"I'll bring either pizza or salad to the party.\"?",
+          "options": [
+            "Coordinating",
+            "Subordinating",
+            "Correlative"
+          ],
+          "answer": 2,
+          "explanation": "\"Either...or\" is a pair of correlative conjunctions used to present alternatives."
+        },
+        {
+          "questionNo": 12,
+          "question": "Fill in the blank with the correct coordinating conjunction: The movie was long _____ interesting.",
+          "options": [
+            "yet",
+            "and",
+            "nor",
+            "for"
+          ],
+          "answer": 1,
+          "explanation": "\"And\" is used to connect two similar or related ideas."
+        },
+        {
+          "questionNo": 13,
+          "question": "What type of conjunction is \"in order that\"?",
+          "options": [
+            "Coordinating",
+            "Subordinating",
+            "Correlative"
+          ],
+          "answer": 1,
+          "explanation": "\"In order that\" is a subordinating conjunction used to express purpose."
+        },
+        {
+          "questionNo": 14,
+          "question": "Which of these is not a correlative conjunction pair?",
+          "options": [
+            "Not only/but also",
+            "Either/or",
+            "Both/and",
+            "When/then"
+          ],
+          "answer": 3,
+          "explanation": "\"When/then\" is not a correlative conjunction pair. The others are correct pairs."
+        },
+        {
+          "questionNo": 15,
+          "question": "Fill in the blank with the correct subordinating conjunction: _____ it was raining, we still went for a walk.",
+          "options": [
+            "Even though",
+            "And",
+            "But",
+            "Or"
+          ],
+          "answer": 0,
+          "explanation": "\"Even though\" is a subordinating conjunction used to show contrast or unexpected result."
+        },
+        {
+          "questionNo": 16,
+          "question": "Which conjunction is used to show cause and effect?",
+          "options": [
+            "And",
+            "But",
+            "Or",
+            "Therefore"
+          ],
+          "answer": 3,
+          "explanation": "\"Therefore\" is used to show a logical conclusion or result based on previous information."
+        },
+        {
+          "questionNo": 17,
+          "question": "What type of conjunction is \"nor\"?",
+          "options": [
+            "Coordinating",
+            "Subordinating",
+            "Correlative"
+          ],
+          "answer": 0,
+          "explanation": "\"Nor\" is one of the FANBOYS coordinating conjunctions, used in negative sentences to add another negative idea."
+        },
+        {
+          "questionNo": 18,
+          "question": "Fill in the blank with the correct correlative conjunction: She is _____ intelligent _____ hardworking.",
+          "options": [
+            "either/or",
+            "neither/nor",
+            "not only/but also",
+            "none of the above"
+          ],
+          "answer": 2,
+          "explanation": "\"Not only...but also\" is used to emphasize two related qualities or actions."
+        },
+        {
+          "questionNo": 19,
+          "question": "Which of these is a subordinating conjunction?",
+          "options": [
+            "For",
+            "Nor",
+            "Although",
+            "Yet"
+          ],
+          "answer": 2,
+          "explanation": "\"Although\" is a subordinating conjunction used to show contrast."
+        },
+        {
+          "questionNo": 20,
+          "question": "What type of conjunction is used in this sentence: \"We can go to the park or stay home.\"?",
+          "options": [
+            "Coordinating",
+            "Subordinating",
+            "Correlative"
+          ],
+          "answer": 0,
+          "explanation": "\"Or\" is a coordinating conjunction used to present alternatives."
+        },
+        {
+          "questionNo": 21,
+          "question": "Fill in the blank with the correct subordinating conjunction: _____ you finish your homework, you can watch TV.",
+          "options": [
+            "And",
+            "But",
+            "Once",
+            "Yet"
+          ],
+          "answer": 2,
+          "explanation": "\"Once\" is a subordinating conjunction indicating a time relationship."
+        },
+        {
+          "questionNo": 22,
+          "question": "What type of conjunction is \"as if\"?",
+          "options": [
+            "Coordinating",
+            "Subordinating",
+            "Correlative"
+          ],
+          "answer": 1,
+          "explanation": "\"As if\" is a subordinating conjunction used to make comparisons or express manner."
+        },
+        {
+          "questionNo": 23,
+          "question": "Fill in the blank with the correct coordinating conjunction: I like coffee, _____ I don't drink it often.",
+          "options": [
+            "and",
+            "but",
+            "or",
+            "so"
+          ],
+          "answer": 1,
+          "explanation": "\"But\" is used to show the contrast between two independent clauses."
+        },
+        {
+          "questionNo": 24,
+          "question": "Fill in the blanks with the appropriate conjunctions: _________ the weather forecast predicted rain, we decided to go on our hike _________ we were prepared with raincoats and umbrellas.",
+          "options": [
+            "Although / because",
+            "Since / but",
+            "While / and",
+            "Even though / for"
+          ],
+          "answer": 0,
+          "explanation": "The first blank requires a subordinating conjunction that expresses contrast (the decision to hike despite the rain forecast). \"Although\" fits this purpose. The second blank needs a conjunction that shows reason, and \"because\" explains why they proceeded with the hike."
+        },
+        {
+          "questionNo": 25,
+          "question": "The company's new policy states that _________ employees _________ managers are allowed to use social media during work hours.",
+          "options": [
+            "both / and",
+            "either / or",
+            "neither / nor",
+            "not only / but also"
+          ],
+          "answer": 2,
+          "explanation": "This sentence requires a correlative conjunction pair that expresses a negative for both groups mentioned. \"Neither...nor\" is the appropriate pair to convey that both employees and managers are not allowed to use social media."
+        }
+      ]
+    }
+  ]
+}
